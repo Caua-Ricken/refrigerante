@@ -20,7 +20,7 @@ Este projeto exibe imagens de três marcas famosas de refrigerantes: Pepsi Cola,
 
 O projeto está hospedado no GitHub Pages e pode ser acessado pelo link:
 
-[https://dev-caua-ricken.github.io/refrigerante/](https://dev-caua-ricken.github.io/refrigerante/)
+[https://dev-caua-ricken.github.io/refrigerante/](https://caua-ricken.github.io/refrigerante/)
 
 ## Estrutura do projeto
 
