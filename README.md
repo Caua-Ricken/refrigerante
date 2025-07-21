@@ -4,12 +4,13 @@ Página web simples que apresenta imagens de diferentes marcas de refrigerantes.
 
 ## Descrição
 
-Este projeto exibe imagens de três marcas famosas de refrigerantes: Pepsi Cola, Coca-Cola e Guaraná. É um exemplo básico de layout com HTML e CSS, ideal para aprendizado e prática de desenvolvimento front-end.
+Este projeto exibe imagens de três marcas famosas de refrigerantes: Pepsi Cola, Coca-Cola e Guaraná. É um exemplo básico de layout com HTML, JAVASCRIPT e CSS, ideal para aprendizado e prática de desenvolvimento front-end.
 
 ## Tecnologias utilizadas
 
 - HTML
 - CSS
+- JAVASCRIPT
 
 ## Visual do projeto
 
@@ -25,6 +26,7 @@ O projeto está hospedado no GitHub Pages e pode ser acessado pelo link:
 
 - `index.html` — arquivo principal da página.
 - `style.css` — arquivo de estilos CSS.
+- `index.js` — arquivo de funções.
 - Imagens das marcas localizadas na pasta `img/`.
 
 Feito por Cauã Ricken.
