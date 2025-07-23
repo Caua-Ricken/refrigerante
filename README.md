@@ -27,6 +27,6 @@ O projeto está hospedado no GitHub Pages e pode ser acessado pelo link:
 - `index.html` — arquivo principal da página.
 - `style.css` — arquivo de estilos CSS.
 - `index.js` — arquivo de funções.
-- Imagens das marcas localizadas na pasta `img/`.
+- Imagens das marcas localizadas na pasta `imagens/`.
 
 Feito por Cauã Ricken.
